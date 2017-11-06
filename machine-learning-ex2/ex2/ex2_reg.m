@@ -107,6 +107,11 @@ pause;
 initial_theta = zeros(size(X, 2), 1);
 
 % Set regularization parameter lambda to 1 (you should vary this)
+
+%%% By Polyline %%%
+% try different lambda values to see different effects
+% supposing low lambda would be overfitting, high lambda would be underfitting
+
 lambda = 1;
 
 % Set Options
