@@ -27,3 +27,10 @@ Outline of each homework
 - Vectorized Implementation
 
 ### Homework 4 ###
+
+- Handwriting Recognition
+- Forward Propagation
+- Backward Propagation
+- Regularization
+*Still hard to understand Backward Propagation*
+
