@@ -32,5 +32,6 @@ Outline of each homework
 - Forward Propagation
 - Backward Propagation
 - Regularization
-*Still hard to understand Backward Propagation*
 
+##### Good Explanation Video for Back Propagation
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
