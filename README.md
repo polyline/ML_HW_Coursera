@@ -44,4 +44,9 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5
 - In practice, when we plot learning curve, we should rambomly select i samples from the training set and validation set, abd then use the trained theta to calculate errors. 
 Repeat the process many times(for examples: 50 times), and use the average to plot learning curve.
 
-U
+### Homework 6 ###
+- Learning how to change parameters C and sigma and its effect
+- spam classifier
+- Gaussian Kernel
+- How to preprocess a text file(an e-mail), such as coverting url and number to particular string.
+- Using a vacabulary list as feature vector.(1 means containing this word, 0 means no)
